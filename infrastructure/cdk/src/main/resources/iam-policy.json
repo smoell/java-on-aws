@@ -68,6 +68,7 @@
 				"logs:*",
 				"lambda:*",
 				"dynamodb:*",
+				"route53:*",
 				"s3:*",
 				"servicediscovery:*",
 				"tag:*",
